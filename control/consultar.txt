@@ -1,0 +1,1442 @@
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM jefe_familia WHERE cedula='1'
+
+SELECT * FROM jefe_familia WHERE cedula='17446946'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM servicios
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM servicios
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios WHERE codigo='1'
+
+SELECT * FROM servicios
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios WHERE codigo='7'
+
+SELECT * FROM servicios WHERE codigo='7'
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM actualizar_costo WHERE codigo='7' AND fecha='2023-11-01'
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM actualizar_costo WHERE codigo='6' AND fecha='2023-10-31'
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM servicios
+
+costo
+
+SELECT * FROM actualizar_costo WHERE codigo='1' AND fecha='2023-10-14'
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM actualizar_costo WHERE codigo='6' AND fecha='2023-10-31'
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus'
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM jefe_familia WHERE cedula='1'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='karlina' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='jesus' AND contrasenia='12345'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='karlina' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='root' AND contrasenia='123456789'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM usuario WHERE usuario='carmen' AND contrasenia='1234'
+
+SELECT * FROM servicios
+
+SELECT * FROM actualizar_costo
+
+SELECT * FROM jefe_de_calle
+
+SELECT * FROM servicios
+

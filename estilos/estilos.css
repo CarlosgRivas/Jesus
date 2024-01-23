@@ -1,0 +1,123 @@
+
+
+.dynamic-tab-pane-control.tab-pane {
+    /*se refiere al contenedor de pestañas tab-pane*/position:relative;
+    /*width:auto;
+    *//* width needed weird IE bug */overflow: hidden;
+    /*margin-left:8px;
+    margin-right:8px;
+    */
+  }
+
+
+.dynamic-tab-pane-control .tab-row .tab {
+    /* se refiere a la pestañita donde esta el nombre*/width:auto;
+    height:auto;
+    position:relative;
+    top:0;
+    display:inline;
+    float:left;
+    overflow:hidden;
+    cursor:default;
+    margin:1px -1px 1px 2px;
+    padding:2px 0px 0px 0px;
+    border:0;
+    /*z-index:0;
+    */white-space:nowrap;
+    color:/*#999999*/ #0182FB;
+    border-left:1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+    background-color:#f4f4f4;
+    font-family : 'sans-serif';
+    font-size:12px;
+    text-align:center;
+    text-decoration:none;
+  }
+
+
+.dynamic-tab-pane-control .tab-row .tab.selected {
+    /*estilo de la pestaña seleccionada*/width:auto;
+    height:auto;
+    background-color:/*#C8C8C8*/#FFFFFF;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    border-top: 2px solid #cccccc;
+    border-bottom: 2px solid #FFFFFF;
+    /*z-index:1;
+    */padding:2px 0 0px 0;
+    margin:1px -3px -3px 0px;
+    top:-2px;
+    font-family : 'sans-serif';
+    font-size:12px;
+    text-align:center;
+    color:#999999;
+  }
+
+
+.dynamic-tab-pane-control .tab-row .tab a {
+    /*se refiere al vihinculo del nombre la pestaña*/cursor:pointer;
+    /*z-index:40;
+    */font-family : 'sans-serif';
+    font-size:12px;
+    text-align:center;
+    color:/*#999999*/#2934FF;
+    text-decoration:none;
+  }
+
+
+.dynamic-tab-pane-control .tab-row .tab.hover {
+    /*cuando pase el mouse sobre la pestaña*/width:auto;
+    height:auto;
+    /*z-index: 0;
+    */font-family : 'sans-serif';
+    font-size:12px;
+    text-align:center;
+    color:/*#E6F3FF*/#ccd9e7;
+    background-color:#FBFFFF;
+  }
+
+
+.dynamic-tab-pane-control .tab-page {
+    /*cuerpo de la pestaña*/width:auto;
+    clear:both;
+    border:1px solid #cccccc;
+    background:#FFFFFF;
+    /*z-index:0;
+    */position:relative;
+    top:-2px;
+    padding:10px;
+  }
+
+
+.dynamic-tab-pane-control .tab-row {
+    /*z-index:1;
+    */white-space:nowrap;
+  }
+
+
+
+
+
+.estilo_cuadros{
+	
+	border-bottom-color : #9e9e9e; 
+	border-bottom-style : solid; 
+	border-bottom-width : 1px; 
+	border-collapse : separate;
+	border-left-color : #9e9e9e;
+	border-left-style : solid;
+	border-left-width : 1px; 
+	border-right-color : #9e9e9e; 
+	border-right-style : solid; 
+	border-right-width : 1px; 
+	border-top-color : #9e9e9e; 
+	border-top-style : solid; 
+	border-top-width : 1px;
+
+}
+
+
+
+
+

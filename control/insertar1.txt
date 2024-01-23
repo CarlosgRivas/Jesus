@@ -1,0 +1,52 @@
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='jesus'--
+
+--
+
+SELECT * FROM jefe_familia WHERE cedula='1'--
+
+--
+
+SELECT * FROM jefe_familia WHERE cedula='17446946'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM usuario WHERE usuario='carmen'--
+
+--
+
+SELECT * FROM jefe_familia WHERE cedula='1'--
+

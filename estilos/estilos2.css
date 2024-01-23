@@ -1,0 +1,119 @@
+.dynamic-tab-pane-control.tab-pane { /*se refiere al contenedor de pestañas tab-pane*/
+	position:	relative;
+	/*width:		auto;	*/	/* width needed weird IE bug */
+	overflow: hidden;
+	/*margin-left:8px;
+	margin-right:8px;*/   
+}
+.dynamic-tab-pane-control .tab-row .tab { /* se refiere a la pestañita donde esta el nombre*/
+	width:auto;
+	height:20px;	
+	position:		relative;
+	top:			0;
+	display:		inline;
+	float:			right;
+	overflow:		hidden;
+	cursor:			default;
+	margin:			0px -1px 1px 2px;
+	padding:		2px 0px 0px 0px;
+	border:			0;
+	/*z-index:		0;	*/	
+	white-space:	nowrap;
+	color:/*#999999*/ #0E289C;	
+	border-left:2px solid #cccccc;
+	border-right: 2px solid #cccccc;
+	border-top: 1px solid #cccccc;
+	background-color:/*#6382b1*/#bec8d7;
+	font-family : 'sans-serif';
+	font-size:12px;
+	text-align:center;
+	text-decoration:none;	
+}
+.dynamic-tab-pane-control .tab-row .tab.selected { /*estilo de la pestaña seleccionada*/
+	width:auto;
+	height:20px;	
+	background-color:#8aa1d5/*#7790cb*/;
+	border-left: 2px solid #cccccc;
+	border-right: 2px solid #cccccc;
+	border-top: 1px solid #cccccc;
+	border-bottom: 0px solid #999999;		
+	/*z-index:		1;*/
+	padding:		2px 0 0px 0;
+	margin:			1px -3px -3px 0px;
+	top:			-2px;
+	font-family : 'sans-serif';
+	font-size:12px;
+	text-align:center;
+	color:#999999;	
+}
+.dynamic-tab-pane-control .tab-row .tab a{	/*se refiere al vihinculo del nombre la pestaña*/
+	cursor:	pointer;
+	/*z-index:40;*/
+	font-family : 'sans-serif';
+	font-size:13px;
+	text-align:center;
+	color:/*#999999*/#FFFFFF/*#2934FF*/;
+	text-decoration:none;
+}
+.dynamic-tab-pane-control .tab-row .tab.hover { /*cuando pase el mouse sobre la pestaña*/
+	width:auto;
+	height:20px;	
+	/*z-index: 0;*/
+	font-family : 'sans-serif';
+	font-size:12px;
+	text-align:center;
+	color:/*#E6F3FF*/#ccd9e7;
+	background-color:#888888;
+}
+.dynamic-tab-pane-control .tab-page { /*cuerpo de la pestaña*/
+	width:auto;
+	clear:			both;
+	border:			1px solid #cccccc;
+	background:		#FFFFFF;
+	/*z-index:		0;*/
+	position:		relative;
+	top:			-2px;	
+	padding:		10px;
+}
+ 
+.dynamic-tab-pane-control .tab-row { 
+	/*z-index:		1;*/
+	white-space:	nowrap;
+}
+
+BODY { 
+	font-family : 'sans-serif';
+	color:#344360;
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	padding-left:0px;
+	padding-top:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+}
+
+TABLE
+{
+	font-size:12px;
+}
+
+.estilo_msg_on_success{
+
+    color:#10AD27;
+    font-family : 'sans-serif';
+    font-style: italic;
+    font-size : 12px;
+  }
+
+.estilo_msg_on_error{
+
+    color:#FF0A33;
+    font-family : 'sans-serif';
+    font-style: italic;
+    font-size : 12px;
+
+
+
+}
